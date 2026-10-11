@@ -15,7 +15,7 @@ WORDS = [
     {"word": "database", "hint": "An organized collection of information."},
     {"word": "network", "hint": "A group of connected computers or devices."},
     {"word": "security", "hint": "Protection against danger or unauthorized access."},
-    {"word": "education", "hint": "The process of learning and gaining knowledge."},
+    {"word": "education", "hint": "The process of learning and gaining knowledge is superpower."},
 ]
 
 ATTEMPTS_PER_ROUND = 3
