@@ -36,6 +36,8 @@ A beginner-friendly command-line word puzzle game.
 - Correct on third attempt: 5 points
 - Using a hint reduces the points earned by 2 (minimum 1 point)
 - Incorrect after all attempts: 0 points
+- it is relatedable to real world gam,es
+- 
 
 ## Files
 - `main.py` — the complete game
