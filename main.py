@@ -95,7 +95,7 @@ def main():
 
         again = input("Play another game? (y/n): ").strip().lower()
         if again not in ("y", "yes"):
-            print("Thanks for playing Word Jumble. Goodbye!")
+            print("Thanks for playing Word Jumble. Goodbye! have a nice day")
             break
 
 
